@@ -1,47 +1,46 @@
 # Contributing
 
-Thank you for your interest in contributing to the Technical Program Management Toolkit.
+Thank you for your interest in contributing to this project.
 
-This repository provides practical frameworks, templates, and examples used by Technical Program Managers to coordinate complex technology initiatives.
+This repository contains conceptual frameworks and documentation related to enterprise transformation, operating models, and program execution systems.
 
-The goal is to share practical artifacts that help organizations manage dependencies, mitigate risks, maintain program visibility, and improve cross-team coordination.
+The goal of this repository is to provide clear documentation and supporting materials for the Transformation Operating Framework.
 
----
-
-## Ways to Contribute
-
-Contributions are welcome in several forms, including:
-
-- improving existing templates or documentation
-- adding new examples of TPM artifacts
-- refining frameworks for program coordination
-- fixing errors or improving clarity
-- sharing real-world execution practices
+Transformation Operating Framework  
+https://github.com/somerwalker/transformation-operating-framework
 
 ---
 
-## Contribution Principles
+## Contribution Guidelines
 
-When proposing contributions, please aim to keep submissions:
+Contributions that improve the clarity and usefulness of the documentation are welcome.
 
-- practical and applicable to real-world organizations
-- concise and clearly structured
-- focused on execution and coordination
-- aligned with responsible leadership and governance practices
+Examples include:
 
----
+- documentation improvements
+- diagram improvements
+- additional examples or explanations
+- corrections or clarifications
+- formatting or readability improvements
 
-## Submitting Changes
-
-1. Fork the repository.
-2. Create a new branch for your proposed change.
-3. Commit your improvements with a clear description.
-4. Submit a pull request describing the change and why it improves the repository.
+Contributions should focus on improving documentation rather than modifying the core framework structure.
 
 ---
 
-## Discussion
+## Intellectual Property
 
-If you have ideas for improving the toolkit or expanding the repository, feel free to open an issue to start a discussion.
+By submitting a contribution to this repository, you agree that your contribution may be incorporated into the project documentation.
 
-The objective of this repository is to create a practical reference for Technical Program Managers coordinating complex initiatives across teams and organizations.
+All core methodology, frameworks, and associated intellectual property remain the property of the project author.
+
+Submission of a contribution does not grant rights to reproduce, commercialize, or redistribute the methodology outside the scope of this repository without permission from the author.
+
+---
+
+## How to Contribute
+
+1. Fork the repository
+2. Create a branch for your change
+3. Submit a pull request with a clear explanation of the update
+
+Thank you for helping improve the clarity and usefulness of this work.
