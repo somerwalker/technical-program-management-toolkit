@@ -1,8 +1,8 @@
 # Program Health
 
-This document describes how program leaders monitor overall delivery health using status indicators, milestone tracking, and risk visibility.
+This document describes how program leadership monitors overall delivery health using status indicators, milestone tracking, and risk visibility.
 
-Program health provides leadership with a clear understanding of whether a program is progressing as expected.
+Program health reporting provides leadership with a clear understanding of whether a program is progressing as expected.
 
 ## Health Indicators
 
@@ -40,9 +40,12 @@ Leaders should quickly understand:
 - decisions required  
 - upcoming milestones
 
-<hr style="height:5px; background-color: #000; border: none;">
+---
+---
 
-Part of the Transformation Operating Framework  
+Part of the **Transformation Operating Framework**
+
+Transformation Operating Framework  
 https://github.com/somerwalker/transformation-operating-framework
 
 Copyright © 2026 Somer Walker

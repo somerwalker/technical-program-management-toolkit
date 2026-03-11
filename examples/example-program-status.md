@@ -1,15 +1,29 @@
 # Example Program Status
 
-This example illustrates how a weekly program status update might be structured for leadership visibility.
+This example illustrates how a weekly program status update might be structured for executive leadership visibility in a large technical program.
 
 Program Name: Global Platform Deployment  
 Reporting Period: Week 3  
 
 ## Status
 
-Yellow
+When program status is not Green, the update should include a brief explanation and a clear path to returning the program to Green. 
 
-Dependency delays may affect the next milestone if not resolved within two weeks.
+Each issue should identify:
+
+- action required to return to Green
+- owner responsible for the action
+- target completion date
+
+### Example:
+
+Overall Status: **Yellow**
+
+Dependency delays may affect the next milestone if not resolved within two weeks.  
+
+| Issue | Action to Return to Green | Owner | Target Resolution |
+|------|---------------------------|------|------------------|
+| API gateway deployment delay | Confirm updated delivery schedule with Platform Team | Platform Director | April 15 |
 
 ## Achievements
 
@@ -18,18 +32,46 @@ Dependency delays may affect the next milestone if not resolved within two weeks
 
 ## Risks
 
-| Risk | Impact | Mitigation |
-|-----|-------|-----------|
-| Vendor delivery delay | High | Establish contingency plan |
+| Risk | Likelihood | Impact | Mitigation Action | Owner | Target Resolution |
+|-----|------------|--------|------------------|-------|------------------|
+| Vendor delivery delay | Medium | High | Establish contingency plan and confirm alternate vendor availability | Vendor Management Lead | April 12 |
 
 ## Next Milestones
 
-- service integration testing  
-- launch readiness review
+| Milestone | Teams Involved | Target Date | Status Notes |
+|-----------|---------------|-------------|--------------|
+| Service integration testing | Platform Team, Application Team | April 18 | Dependency on API gateway deployment |
+| Launch readiness review | Platform Team, Security Team, Operations | April 25 | Pending security certification completion |
 
-<hr style="height:5px; background-color: #000; border: none;">
+## Program Status Reporting Flow
 
-Part of the Transformation Operating Framework  
+```mermaid
+flowchart LR
+
+A[Program Execution]
+--> B[Status Collected from Teams]
+
+B --> C[Program Status Report]
+
+C --> D[Leadership Review]
+
+D --> E[Actions Assigned]
+
+E --> A
+```
+
+### Leadership Alignment
+
+Program updates should reflect commitments that have been reviewed with the responsible team leads or directors.
+
+If an owner, mitigation action, or milestone commitment is missing, the gap should be clearly visible in the report so that the program leadership team can resolve the ownership during the status review meeting.
+
+---
+---
+
+Part of the **Transformation Operating Framework**
+
+Transformation Operating Framework  
 https://github.com/somerwalker/transformation-operating-framework
 
 Copyright © 2026 Somer Walker

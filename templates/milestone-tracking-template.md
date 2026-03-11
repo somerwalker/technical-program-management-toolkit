@@ -1,14 +1,21 @@
 # Milestone Tracking Template
 
-This template tracks major delivery milestones and their progress throughout a program lifecycle.
+This template helps program managers track major delivery milestones and monitor progress throughout a program lifecycle.
 
-| Milestone | Description | Owner | Target Date | Status |
-|----------|-------------|------|------------|-------|
-| M1 | Infrastructure deployment | Infrastructure Team | July 1 | In Progress |
+## Milestone Tracker
 
-<hr style="height:5px; background-color: #000; border: none;">
+| Milestone ID | Milestone | Description | Teams Involved | Owner | Target Date | Status | Notes |
+|-------------|----------|-------------|---------------|------|------------|-------|------|
+| M1 | Infrastructure Deployment | Initial regional infrastructure rollout | Infrastructure Team, Platform Team | Infrastructure Director | July 1 | Yellow | Integration environment readiness still pending |
 
-Part of the Transformation Operating Framework  
+Milestones should include a clearly identified owner and target completion date. If a milestone is at risk, the notes section should briefly describe the concern and the action required to return the milestone to green. Missing ownership or unresolved milestone risks should remain visible so the program team can address them during status review meetings.
+
+---
+---
+
+Part of the **Transformation Operating Framework**
+
+Transformation Operating Framework  
 https://github.com/somerwalker/transformation-operating-framework
 
 Copyright © 2026 Somer Walker

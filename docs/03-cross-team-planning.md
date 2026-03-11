@@ -1,8 +1,8 @@
 # Cross-Team Planning
 
-This document explains how large programs coordinate planning across multiple teams to align milestones, dependencies, and delivery schedules.
+This document explains how large technical programs coordinate planning across multiple teams to align milestones, dependencies, and delivery schedules.
 
-Complex technology initiatives often require collaboration across multiple engineering teams. Cross-team planning ensures that timelines, ownership, and dependencies remain aligned.
+Large technical programs often require collaboration across multiple engineering teams.
 
 ## Planning Objectives
 
@@ -34,9 +34,12 @@ Typical planning activities include:
 
 Strong planning reduces surprises during execution.
 
-<hr style="height:5px; background-color: #000; border: none;">
+---
+---
 
-Part of the Transformation Operating Framework  
+Part of the **Transformation Operating Framework**
+
+Transformation Operating Framework  
 https://github.com/somerwalker/transformation-operating-framework
 
 Copyright © 2026 Somer Walker

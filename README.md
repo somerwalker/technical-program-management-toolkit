@@ -8,11 +8,11 @@
 > **Author:** Somer Walker  
 > Creator of the Transformation Operating Framework, a model for aligning strategy, governance, and program execution in complex organizations.
 
-This repository provides a practical collection of tools, templates, and frameworks used by Technical Program Managers to coordinate complex technology initiatives.
+This repository provides a practical collection of tools, templates, and coordination frameworks used by Technical Program Managers to manage complex technology initiatives.
 
-Technical Program Managers (TPMs) operate at the intersection of engineering, leadership, and execution. Their role is to help organizations translate strategic initiatives into coordinated delivery across multiple teams.
+Technical Program Managers (TPMs) operate at the intersection of engineering, leadership, and execution. Their role is to help organizations translate strategic initiatives into coordinated delivery across multiple teams and systems.
 
-This repository contains the practical artifacts used to manage dependencies, communicate program health, mitigate risks, and maintain alignment across stakeholders.
+This repository contains practical artifacts used to manage dependencies, communicate program health, mitigate risks, and maintain alignment across stakeholders.
 
 ---
 
@@ -27,7 +27,7 @@ https://github.com/somerwalker/transformation-operating-framework
 
 ---
 
-## Why Technical Program Management matters
+## Why Technical Program Management Matters
 
 Large technology initiatives rarely fail because of engineering capability alone. They fail when coordination across teams breaks down, dependencies are unmanaged, and leadership loses visibility into execution.
 
@@ -58,7 +58,7 @@ The toolkit focuses on five core areas of program coordination:
 - Stakeholder Communication  
 - Program Health Monitoring  
 
-These areas represent the practical structures TPMs use to maintain execution visibility and coordination across multiple teams.
+These areas represent the organizational structures TPMs use to maintain execution visibility and coordination across multiple teams.
 
 Example coordination workflow:
 
@@ -133,7 +133,7 @@ By providing structured artifacts and repeatable coordination practices, this re
 
 This repository provides the execution artifacts used within the **Delivery layer** of the Transformation Operating Framework.
 
-While the framework defines how strategy, governance, and transformation initiatives align, this toolkit provides the practical structures Technical Program Managers use to coordinate delivery across teams.
+While the framework defines how strategy, governance, transformation initiatives, and execution align across the organization, this toolkit provides the practical artifacts Technical Program Managers use to coordinate delivery across engineering teams.
 
 ```mermaid
 flowchart TB
@@ -148,7 +148,8 @@ Strategy[Strategy]
 See the architecture overview:  
 https://github.com/somerwalker/transformation-operating-system
 
-<hr style="height:5px; background-color: #000; border: none;">
+---
+---
 
 ## Intellectual Property
 
@@ -163,7 +164,7 @@ Commercial use of the methodology or derivative consulting frameworks requires w
 ## Author
 
 Somer Walker  
-Enterprise Program Leader | Operational Excellence | AI Transformation
+Enterprise Program Leader | AI Transformation | Operational Excellence
 
 LinkedIn  
 https://www.linkedin.com/in/somerwalker
@@ -180,3 +181,4 @@ Please review `CONTRIBUTING.md` before submitting a pull request.
 ## Copyright
 
 Copyright © 2026 Somer Walker
+All rights reserved.

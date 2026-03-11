@@ -1,8 +1,8 @@
 # Dependency Management
 
-This document outlines practical approaches for identifying, tracking, and coordinating dependencies across teams in complex technical programs.
+This document outlines practical approaches for identifying, tracking, and coordinating dependencies across teams in complex technical programs and transformation initiatives.
 
-Technical programs often require coordination across multiple teams, services, and systems. Dependency management ensures that workstreams remain aligned and that potential blockers are surfaced early.
+Large technical programs often require coordination across multiple teams, services, and systems. Effective dependency management ensures that workstreams remain aligned and that potential blockers are surfaced early.
 
 ## Types of Dependencies
 
@@ -32,7 +32,7 @@ Strong programs track dependencies with:
 
 ## Best Practices
 
-Effective dependency management includes:
+Effective dependency management practices include:
 
 - documenting dependencies early during planning  
 - maintaining a shared dependency tracker  
@@ -41,9 +41,12 @@ Effective dependency management includes:
 
 Dependency visibility significantly improves program predictability.
 
-<hr style="height:5px; background-color: #000; border: none;">
+---
+---
 
-Part of the Transformation Operating Framework  
+Part of the **Transformation Operating Framework**
+
+Transformation Operating Framework  
 https://github.com/somerwalker/transformation-operating-framework
 
 Copyright © 2026 Somer Walker
