@@ -1,14 +1,21 @@
 # Dependency Tracker Template
 
-This template helps program managers document and monitor cross-team dependencies that may affect delivery milestones.
+This template helps program managers document and monitor cross-team dependencies that may affect program milestones and delivery schedules.
 
-| Dependency ID | Description | Owning Team | Dependent Team | Target Date | Status | Notes |
-|---------------|-------------|-------------|---------------|------------|-------|------|
-| D1 | Example API readiness | Platform Team | Application Team | July 15 | Open | Waiting on architecture review |
+## Dependency Tracker
 
-<hr style="height:5px; background-color: #000; border: none;">
+| Dependency ID | Dependency Description | Owning Team | Dependent Team | Target Delivery Date | Status | Action to Resolve | Owner | Notes |
+|---------------|-----------------------|-------------|---------------|---------------------|-------|------------------|------|------|
+| D1 | API gateway readiness for integration testing | Platform Team | Application Team | July 15 | Yellow | Confirm architecture review approval | Platform Architecture Lead | Waiting on architecture review |
 
-Part of the Transformation Operating Framework  
+Each dependency should include a clearly identified owner, the action required to resolve the dependency, and the expected completion date. If ownership, mitigation actions, or dates are missing, those gaps should remain visible so the program team can assign responsibility during dependency review meetings.
+
+---
+---
+
+Part of the **Transformation Operating Framework**
+
+Transformation Operating Framework  
 https://github.com/somerwalker/transformation-operating-framework
 
 Copyright © 2026 Somer Walker
