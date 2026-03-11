@@ -1,14 +1,21 @@
 # Risk Register Template
 
-This template provides a simple structure for tracking program risks and mitigation plans.
+This template provides a simple structure for documenting program risks and tracking mitigation actions.
 
-| Risk ID | Risk Description | Impact | Likelihood | Mitigation Strategy | Owner | Status |
-|--------|-----------------|--------|-----------|--------------------|------|-------|
-| R1 | Example infrastructure delay | High | Medium | Vendor checkpoint reviews | Infrastructure Lead | Open |
+## Risk Register
 
-<hr style="height:5px; background-color: #000; border: none;">
+| Risk ID | Risk Description | Likelihood | Impact | Mitigation Action | Owner | Target Resolution | Status |
+|--------|-----------------|------------|--------|------------------|------|------------------|-------|
+| R1 | Example infrastructure delay | Medium | High | Conduct weekly vendor checkpoint reviews | Infrastructure Lead | July 10 | Open |
 
-Part of the Transformation Operating Framework  
+Each risk should include a clearly identified owner, the mitigation action required to reduce or eliminate the risk, and the expected resolution date. Missing ownership, mitigation actions, or dates should remain visible so that program leadership can assign responsibility during risk review meetings.
+
+---
+---
+
+Part of the **Transformation Operating Framework**
+
+Transformation Operating Framework  
 https://github.com/somerwalker/transformation-operating-framework
 
 Copyright © 2026 Somer Walker
