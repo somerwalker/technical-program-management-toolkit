@@ -1,6 +1,6 @@
 # Program Status Template
 
-This template provides a structured format for communicating weekly program progress, risks, and upcoming milestones.
+This template provides a structured format for communicating weekly program progress, risks, dependencies, and upcoming milestones.
 
 ## Program Information
 
@@ -15,7 +15,7 @@ Executive Sponsor
 
 Green / Yellow / Red
 
-Provide a short summary of current program health.
+Provide a short summary of current program health. If status is Yellow or Red, briefly explain the issue and the action required to return the program to Green.
 
 ---
 
@@ -33,30 +33,32 @@ Summarize active workstreams.
 
 ## Risks and Issues
 
-| Risk | Impact | Mitigation | Owner |
-|------|--------|-----------|------|
-
----
+| Risk | Likelihood | Impact | Mitigation Action | Owner | Target Resolution |
+|------|------------|--------|------------------|------|------------------|
 
 ## Dependencies
 
-| Dependency | Team Responsible | Status | Target Date |
+| Dependency | Owning Team | Dependent Team | Status | Target Date | Action to Resolve | Owner |
 
 ---
 
 ## Decisions Needed
 
-| Decision | Context | Recommendation | Owner |
+| Decision | Context | Recommendation | Decision Owner | Needed By |
 
 ---
 
 ## Upcoming Milestones
 
-List upcoming program checkpoints.
+| Milestone | Teams Involved | Target Date | Status | Notes |
+|-----------|---------------|------------|-------|------|
 
-<hr style="height:5px; background-color: #000; border: none;">
+---
+---
 
-Part of the Transformation Operating Framework  
+Part of the **Transformation Operating Framework**
+
+Transformation Operating Framework  
 https://github.com/somerwalker/transformation-operating-framework
 
 Copyright © 2026 Somer Walker
