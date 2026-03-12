@@ -1,18 +1,18 @@
-# Enterprise Governance Toolkit
+# Technical Program Management Toolkit
 
-![Enterprise Governance](https://img.shields.io/badge/Enterprise-Governance-blue)
-![Leadership Oversight](https://img.shields.io/badge/Leadership-Oversight-green)
-![Decision Structures](https://img.shields.io/badge/Decision-Structures-purple)
+![Technical Program Management](https://img.shields.io/badge/Technical-Program%20Management-blue)
+![Execution Toolkit](https://img.shields.io/badge/Execution-Toolkit-green)
+![Program Delivery](https://img.shields.io/badge/Program-Delivery-purple)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey)
 
 > **Author:** Somer Walker  
 > Creator of the Transformation Operating Framework, a model for aligning strategy, governance, and program execution in complex organizations.
 
-This repository provides guidance for establishing governance structures that support leadership alignment, decision-making, and oversight across complex initiatives within an organization.
+This repository provides a practical collection of tools, templates, and coordination frameworks used by Technical Program Managers to manage complex technology initiatives.
 
-Enterprise governance operates at the organizational level and defines how leadership prioritizes initiatives, allocates resources, and oversees strategic programs.
+Technical Program Managers (TPMs) operate at the intersection of engineering, leadership, and execution. Their role is to help organizations translate strategic initiatives into coordinated delivery across multiple teams and systems.
 
-The practices documented here help organizations maintain clarity around decision authority, escalation paths, and executive oversight across multiple initiatives.
+This repository contains practical artifacts used to manage dependencies, communicate program health, mitigate risks, and maintain alignment across stakeholders.
 
 ---
 
@@ -27,66 +27,53 @@ https://github.com/somerwalker/transformation-operating-framework
 
 ---
 
-## Why Enterprise Governance Matters
+## Why Technical Program Management Matters
 
-Organizations undertaking complex transformations often struggle with unclear decision authority, inconsistent leadership oversight, and fragmented alignment across initiatives.
+Large technology initiatives rarely fail because of engineering capability alone. They fail when coordination across teams breaks down, dependencies are unmanaged, and leadership loses visibility into execution.
 
-Enterprise governance provides the leadership structures required to maintain strategic alignment across multiple programs and initiatives.
+Technical Program Management provides the operational structure required to coordinate complex delivery environments.
 
-Effective governance helps organizations:
+Technical Program Managers help organizations:
 
-- align leadership around strategic priorities
-- establish clear decision authority
-- maintain visibility across major initiatives
-- escalate risks and issues appropriately
-- coordinate oversight across multiple programs
-- ensure initiatives remain aligned with strategic objectives
+- coordinate delivery across multiple engineering teams
+- manage dependencies between systems and services
+- track risks and mitigation strategies
+- maintain executive visibility into program health
+- facilitate cross-team communication and planning
+- ensure initiatives remain aligned with strategic goals
 
-Without structured governance, large transformation efforts can lose alignment between leadership intent and program execution.
-
----
-
-## Enterprise Governance vs Program Governance
-
-Governance operates at multiple levels within complex organizations.
-
-Enterprise governance focuses on **organizational leadership oversight and strategic decision-making across initiatives**.
-
-Program governance focuses on **execution coordination and delivery oversight within an individual initiative**.
-
-If you are managing governance within a specific program, refer to the **Program Execution OS**, which provides guidance for program-level governance, delivery coordination, and operational reporting.
-
-Program Execution OS  
-https://github.com/somerwalker/program-execution-os
+Without structured program coordination, complex initiatives can quickly lose alignment and momentum.
 
 ---
 
 ## Repository Model
 
-This repository organizes governance structures around the core responsibilities required to maintain leadership alignment and oversight across complex initiatives.
+This repository organizes Technical Program Management artifacts around common execution responsibilities.
 
-The governance toolkit focuses on five core areas:
+The toolkit focuses on five core areas of program coordination:
 
-- Governance Structure  
-- Decision Authority  
-- Escalation Management  
-- Portfolio Visibility  
-- Leadership Cadence  
+- Dependency Coordination  
+- Risk and Issue Management  
+- Milestone Tracking  
+- Stakeholder Communication  
+- Program Health Monitoring  
 
-Example governance oversight flow:
+These areas represent the organizational structures TPMs use to maintain execution visibility and coordination across multiple teams.
+
+Example coordination workflow:
 
 ```mermaid
 flowchart LR
 
-A[Strategic Objectives Defined]
---> B[Governance Structures Established]
---> C[Initiatives Prioritized]
---> D[Programs Executed]
---> E[Executive Oversight]
---> F[Leadership Decisions]
+A[Program Objectives Defined] --> B[Delivery Planning]
+B --> C[Dependency Mapping]
+C --> D[Execution Coordination]
+D --> E[Risk Management]
+E --> F[Program Status Reporting]
+F --> G[Leadership Decisions]
 ```
 
-This model helps organizations maintain clarity around leadership oversight and ensures major initiatives remain aligned with strategic objectives.
+This model helps organizations maintain clarity across large initiatives and ensures leadership remains informed about program health and risk.
 
 ---
 
@@ -96,11 +83,11 @@ This model helps organizations maintain clarity around leadership oversight and 
 
 | File | Description |
 |-----|-------------|
-| docs/governance-principles.md | Core principles for effective enterprise governance |
-| docs/governance-structure.md | Guidance for defining governance roles and structures |
-| docs/decision-framework.md | Models for clarifying decision authority |
-| docs/escalation-model.md | Framework for managing escalations across initiatives |
-| docs/governance-cadence.md | Recommended leadership review cadence |
+| docs/dependency-management.md | Methods for tracking cross-team dependencies |
+| docs/program-health.md | Framework for monitoring program progress and status |
+| docs/cross-team-planning.md | Guidance for coordinating planning across multiple teams |
+| docs/risk-management.md | Approaches for identifying and mitigating program risks |
+| docs/executive-communication.md | Best practices for communicating program updates to leadership |
 
 ---
 
@@ -108,9 +95,11 @@ This model helps organizations maintain clarity around leadership oversight and 
 
 | File | Description |
 |-----|-------------|
-| templates/decision-log-template.md | Template for tracking governance decisions |
-| templates/steering-committee-agenda-template.md | Template for governance meeting agendas |
-| templates/governance-dashboard-template.md | Template for leadership oversight dashboards |
+| templates/program-status-template.md | Template for weekly program status updates |
+| templates/dependency-tracker-template.md | Template for documenting cross-team dependencies |
+| templates/risk-register-template.md | Template for tracking program risks |
+| templates/milestone-tracking-template.md | Template for monitoring program milestones |
+| templates/stakeholder-communication-template.md | Template for mapping stakeholder communication |
 
 ---
 
@@ -118,38 +107,39 @@ This model helps organizations maintain clarity around leadership oversight and 
 
 | File | Description |
 |-----|-------------|
-| examples/example-governance-model.md | Example enterprise governance structure |
-| examples/example-steering-committee.md | Example steering committee model |
+| examples/example-program-status.md | Example weekly program status report |
+| examples/example-risk-register.md | Example risk register for a cross-team initiative |
+| examples/example-dependency-map.md | Example dependency tracking artifact |
 
 ---
 
 ## How This Repository Helps Organizations
 
-Organizations managing multiple strategic initiatives often struggle to maintain consistent governance and leadership oversight.
+Organizations executing large technology initiatives often struggle to maintain coordination across multiple teams and systems.
 
 This toolkit helps organizations:
 
-- define clear governance structures
-- clarify decision authority across initiatives
-- improve leadership alignment
-- maintain visibility into transformation programs
-- manage escalations effectively
+- improve cross-team coordination
+- maintain visibility into delivery progress
+- identify and mitigate risks earlier
+- communicate program health clearly to leadership
+- maintain alignment across complex initiatives
 
-By establishing structured governance practices, organizations can maintain alignment between strategy, leadership decisions, and program execution.
+By providing structured artifacts and repeatable coordination practices, this repository helps organizations execute large initiatives with greater predictability and transparency.
 
 ---
 
 ## Relationship to the Transformation Operating Framework
 
-This repository provides the governance layer of the **Transformation Operating Framework**.
+This repository provides the execution artifacts used within the **Delivery layer** of the Transformation Operating Framework.
 
-While the framework defines how strategy, governance, transformation initiatives, and execution align across the organization, this repository describes the leadership structures used to guide and oversee major initiatives.
+While the framework defines how strategy, governance, transformation initiatives, and execution align across the organization, this toolkit provides the practical artifacts Technical Program Managers use to coordinate delivery across engineering teams.
 
 ```mermaid
 flowchart TB
 
 Strategy[Strategy]
---> Governance[Enterprise Governance Toolkit]
+--> Governance[Governance]
 --> Patterns[Transformation Patterns]
 --> Execution[Program Execution OS]
 --> Delivery[Technical Program Management Toolkit]
@@ -190,5 +180,5 @@ Please review `CONTRIBUTING.md` before submitting a pull request.
 
 ## Copyright
 
-Copyright © 2026 Somer Walker  
+Copyright © 2026 Somer Walker
 All rights reserved.
